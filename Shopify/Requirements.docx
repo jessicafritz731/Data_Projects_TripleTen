@@ -1,0 +1,15 @@
+Project Title: Shopify App Analysis: Power BI Insights
+
+Project Overview:Analyzed Shopify app data to identify success factors using Power BI. Explored app trends, review sentiment, and developer responsiveness.
+
+Skills Demonstrated:
+Power BI: Report design, data visualization, interactive dashboards.
+DAX: Custom calculations for helpful_reviews and developer_answered.
+Data Modeling: Relational model creation (many-to-one).
+Data Analysis: Trend analysis, correlation identification.
+Visual Interpretation: Clear communication of data insights.
+
+Key Deliverables:
+Multi-page Power BI report with visualizations: KPI cards, line charts, scatterplots, bar charts.
+Analysis of app landscape, review sentiment, and developer responsiveness.
+Identification of key success factors for Shopify apps.
